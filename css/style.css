@@ -49,4 +49,15 @@ h6{
 #cat1{
   height: 200px;
   width: 310px;
+  display: block;
+  position: relative;
 }
+a{
+  cursor: pointer;
+  color: #666;
+}
+#bsp{
+  height: 170px;
+  width: 200px;
+}
+
