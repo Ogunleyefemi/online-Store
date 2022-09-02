@@ -28,3 +28,18 @@
   text-align: center;
   padding-bottom: 35px;
 }
+.dropdown{
+  display: inline-block;
+  text-align: center;
+}
+#col{
+  height: 300px;
+  width: 400px;
+}
+h6{
+  font-weight: 700;
+}
+h3{
+  text-align: center;
+  font-weight: 600;
+}
