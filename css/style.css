@@ -43,3 +43,10 @@ h3{
   text-align: center;
   font-weight: 600;
 }
+h6{
+  text-align: center;
+}
+#cat1{
+  height: 200px;
+  width: 310px;
+}
