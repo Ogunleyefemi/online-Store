@@ -63,8 +63,14 @@ a{
 .row{
   text-align: center;
 }
-.uder{
+.under{
   font-family: 'Times New Roman', Times, serif;
   font-weight: 700;
+}
+#price{
+  color: red;
+}
+#bsp15{
+  
 }
 
