@@ -60,4 +60,11 @@ a{
   height: 170px;
   width: 200px;
 }
+.row{
+  text-align: center;
+}
+.uder{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+}
 
