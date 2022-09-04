@@ -78,9 +78,10 @@ a{
   font-weight: 500;
 }
 .footer{
-  background-color: black;
+  background-color: #1b1a1b;
   color: white;
   text-align: center;
+  border-color: #363636;
 }
 .ft{
   margin: 50px;
