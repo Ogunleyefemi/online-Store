@@ -89,4 +89,9 @@ a{
 h4{
   color: white;
 }
+#social{
+  height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
 
