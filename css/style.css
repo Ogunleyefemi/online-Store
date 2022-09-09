@@ -70,4 +70,14 @@ h4{
     width: 40px;
     border-radius: 50%;
 }
+.sidebar{
+  line-height: 50px;
+    background-color: white;
+    height: 800px;
+    float: left;
+    padding: 10px;
+}
+.side{
+  padding: 70px;
+}
 
