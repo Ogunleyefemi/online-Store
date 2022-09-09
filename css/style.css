@@ -83,6 +83,11 @@ h4{
 h2{
   color: red;
   font-weight: 700;
-  
+
+}
+.last-set{
+  margin-left: 120px;
+  padding: 20px;
+  text-align: center;
 }
 
