@@ -71,11 +71,11 @@ h4{
     border-radius: 50%;
 }
 .sidebar{
-  line-height: 50px;
+  line-height: 40px;
     background-color: white;
-    height: 800px;
+    height: 600px;
     float: left;
-    padding: 10px;
+    padding: 5px;
 }
 .side-img{
   padding: 0px;
