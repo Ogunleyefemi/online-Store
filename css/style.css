@@ -93,4 +93,13 @@ h2{
 .account{
   display: none;
 }
+#women{
+  height: 250px;
+  width: 250px;
+}
+#wom{
+  height: 250px;
+  width: 250px;
+  padding: 10px;
+}
 
