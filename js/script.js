@@ -1,7 +1,10 @@
 $(document).ready(function(){
+    $(".login").submit(function(event){
+    event.preventDefault()
     $("#login").click(function(){
         let account = $(".account")
-        $("#login").show(account)
+        $(".account").show(account)
         
     });
+})
 });
